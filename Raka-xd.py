@@ -81,14 +81,14 @@ logo = """
 \033[1;96m$$ |  $$ |\$$$$$$$ |$$ | \$$\\$$$$$$$ | 
 \033[1;96m\__|  \__| \_______|\__|  \__|\_______| 
                                                                   
-\033[1;96m(~)\033[1;97m Owner : niloy vau
+\033[1;96m(~)\033[1;97m Owner : Angga
 
 \033[1;96m(~)\033[1;97m (\_/)GITHUB      : https://github.com/Bajingan-Z
 \033[1;96m(~)\033[1;97m ( •.•)FACEBOOK : fb.me/PEMUDA.KALEUM
 \033[1;96m(~)\033[1;97m />3:)Instagram  : raka_andrian27
 
 OK
-\033[1;97m------^_^------------N1LOY-V4U--------------^_^---------------
+\033[1;97m------^_^------------ANGGA-Z--------------^_^---------------
 
 """
 
@@ -110,7 +110,7 @@ def main():
 
     print("")
 
-    print("\033[1;97m[2]\033[1;91m > \033[1;97mMore Termux Command")
+    print("\033[1;97m[2]\033[1;91m > \033[1;97mHow to Take Facebook Token Tutorial on youtube ...?")
 
     print("")
 
@@ -130,7 +130,7 @@ def main_select():
 
     if IKB =="2":
 
-        os.system("xdg-open https://www.facebook.com/khansaib.pattankh")
+        os.system("xdg-open https://youtu.be/bszAm4C5ovE")
 
 	main()
 
@@ -212,7 +212,7 @@ def login_select():
 
             time.sleep(1)
 
-	    os.system("xdg-open https://www.facebook.com/khansaib.pattankh ")
+	    os.system("xdg-open https://youtu.be/bszAm4C5ovE")
 	
 
 	    time.sleep(1)
